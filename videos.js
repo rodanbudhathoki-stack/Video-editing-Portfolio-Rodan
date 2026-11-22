@@ -9,7 +9,7 @@ const portfolioGroups = [
  ]},
  { title:"Selected work", videos:[
   {title:"Podcast Trailer",description:"Trailer edit for a podcast project.",type:"TRAILER",url:""},
-  {title:"Election Campaign — Cinematic",description:"A cinematic campaign video.",type:"CINEMATIC",url:"https://drive.google.com/file/d/1agrFsh3n3DAeclSVfrLZqOiv3qEYPi9L/view?usp=drive_link"},
+  {title:"Election Campaign — Cinematic",description:"A cinematic campaign video.",type:"CINEMATIC",url:""},
   {title:"Lakhey Reel",description:"A short cultural story through movement and rhythm.",type:"CULTURE",url:""},
   {title:"Travel Cinematic",description:"A cinematic edit from a travel experience.",type:"TRAVEL",url:""},
   {title:"Cinematic Storytelling — Interact 01",description:"Voice-over-led visual storytelling.",type:"STORYTELLING",url:""},
